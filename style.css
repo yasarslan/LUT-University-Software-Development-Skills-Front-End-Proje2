@@ -15,21 +15,14 @@ html, body {
 }
 
  body {
-    /*background-color: #565c5db4;
-    color:#000;
-    height: 100vh;*/
+    
     
     background: linear-gradient(to right bottom,rgba(0,0,0,0.2), rgba(0,0,0,0.6)) , url(/images/imgback.jpg)no-repeat top center;  
     height: 100vh;
     background-attachment: fixed;
 
 
-    /*background-image: url(/images/imgback.jpg) top center;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 0;
-    height: 100vh;*/
+    
  }
 
 /*-------------NAV-BAR css START----------------*/
